@@ -5,3 +5,8 @@ def fin(n):
         return n + fin(n - 1)
 
 
+def sum(a, b):
+
+    return a+b
+
+print(sum(2,3))
