@@ -6,7 +6,10 @@ def fin(n):
 
 
 def sum(a, b):
-
     return a+b
 
-print(sum(2,3))
+def raz(a, b):
+    return a-b
+
+
+print(raz(8, 5))
